@@ -4,8 +4,10 @@ Olá sou Fernando Motta!🧑🏼‍💻
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeMotta&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMotta&layout=compact&langs_count=7&theme=nord"/>
 </div>
-
-<div style="display: inline_block"><br>
+  
+<div style="align: center">
+  
+  <div style="display: inline_block"><br>
   <img align="center" alt="Icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,6 +15,8 @@ Olá sou Fernando Motta!🧑🏼‍💻
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+</div>
+  
 </div>
 
   ##
