@@ -1,7 +1,7 @@
 Olá sou Fernando Motta!🧑🏼‍💻
 <div align="center">
   <a href="https://github.com/FeMotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeMotta&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeMotta&show icons=true&theme=nord&include all commits=true&count private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMotta&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
@@ -26,7 +26,6 @@ Olá sou Fernando Motta!🧑🏼‍💻
   <a href="https://www.linkedin.com/in/fernando-motta-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeMotta)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
