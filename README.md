@@ -1,31 +1,68 @@
-<div align="center">
-  <a href="https://github.com/FeMotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeMotta&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeMotta&layout=compact&langs_count=7&theme=nord"/>
-</div>
-  
-<div style="align: center">
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Icone-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
-    <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</div>
-  
-</div>
+# 👋 Hi there, I'm Fernando Motta!
 
-  ##
-  
-<div>
-  <a href="https://instagram.com/FeMotta0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-motta-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+I'm a Full Stack Developer with experience in web and mobile development. I'm passionate about creating innovative solutions and learning new technologies.
 
+## 🚀 Skills
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Xcode" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50" />
+</p>
 
+## 🔭 Experience
 
+### Full Stack Developer - Cloud Based
+#### January 2022 - Present
 
+- Developed and maintained web applications using Angular and React
+- Implemented RESTful APIs using Node.js and Express
+- Designed and implemented MongoDB, Firebase and Postgres databases
+
+## 🌱 Projects
+
+### Prensença Digital
+
+- **Description:** A system to provide control of the presence of teachers in courses in the public school network in Brazil.
+- **Stack:** Node.js, Postgres
+- **Link:** Private Project
+
+### Escola na Minha Casa
+
+- **Description:** Web app made for the city hall of the city of Osasco, with the aim of integrating the student and the school.
+- **Stack:** Node.js, Postgres
+- **Link:** [EscolaNaMinhaCasa](https://escolanaminhacasa.com.br/)
+
+### Tecnoblog - ETEC
+
+- **Description:** A small site made for a class during the technical course, the idea was for students to use Wordpress, or other site-builders, but I wanted to venture into Angular haha.
+- **Stack:** Angular, Firebase
+- **Link:** [Tecnoblog](https://fire-tecnoblog.web.app/home)
+
+### SmartAI
+
+- **Description:** This project is a web application that generates questions based on a given topic and difficulty level, and checks the user's answers using OpenAI's GPT-3 API. The application has a backend built with Node.js and Express, which communicates with the API. The frontend is built with React and allows users to input the topic and difficulty level, view the generated question, and submit their answers for checking. The application is scalable and can be easily adapted for use in other contexts, such as mobile applications.
+- **Stack:** React, Node.js, Express
+- **Server:** [SmartAI Server](https://github.com/FeMotta/server-smartai)
+
+## 📫 Contact Me
+
+Feel free to reach out to me via LinkedIn or Twitter to connect and collaborate on projects or just to chat about tech and programming. Let's build something awesome together!
+
+- [LinkedIn](https://www.linkedin.com/in/fernando-motta-dev/)
+- [Twitter](https://twitter.com/feemoottaa)
+
+Thanks for stopping by! 😊
