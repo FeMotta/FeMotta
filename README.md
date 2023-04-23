@@ -54,12 +54,6 @@ I'm a Full Stack Developer with experience in web and mobile development. I'm pa
 - **Stack:** Node.js, Postgres
 - **Link:** Private Project
 
-### Escola na Minha Casa
-
-- **Description:** Web app made for the city hall of the city of Osasco, with the aim of integrating the student and the school.
-- **Stack:** Node.js, Postgres
-- **Link:** [EscolaNaMinhaCasa](https://escolanaminhacasa.com.br/)
-
 ### Tecnoblog - ETEC
 
 - **Description:** A small site made for a class during the technical course, the idea was for students to use Wordpress, or other site-builders, but I wanted to venture into Angular haha.
