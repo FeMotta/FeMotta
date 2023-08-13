@@ -54,12 +54,6 @@ I'm a Full Stack Developer with experience in web and mobile development. I'm pa
 - **Stack:** Node.js, Postgres
 - **Link:** Private Project
 
-### Tecnoblog - ETEC
-
-- **Description:** A small site made for a class during the technical course, the idea was for students to use Wordpress, or other site-builders, but I wanted to venture into Angular haha.
-- **Stack:** Angular, Firebase
-- **Link:** [Tecnoblog](https://fire-tecnoblog.web.app/home)
-
 ### SmartAI
 
 - **Description:** This project is a web application that generates questions based on a given topic and difficulty level, and checks the user's answers using OpenAI's GPT-3 API. The application has a backend built with Node.js and Express, which communicates with the API. The frontend is built with React and allows users to input the topic and difficulty level, view the generated question, and submit their answers for checking. The application is scalable and can be easily adapted for use in other contexts, such as mobile applications.
