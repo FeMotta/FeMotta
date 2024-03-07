@@ -10,10 +10,9 @@ I'm a Full Stack Developer with experience in web and mobile development. I'm pa
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg" alt="NextJS" height="50" />
 </p>
 
 ### 📱 Mobile Development
@@ -32,14 +31,14 @@ I'm a Full Stack Developer with experience in web and mobile development. I'm pa
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" alt="Xcode" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="50" />
 </p>
 
 ## 🔭 Experience
 
-### Full Stack Developer - Cloud Based
+### Full Stack Developer - ByndBox
 #### January 2022 - Present
 
 - Developed and maintained web applications using Angular and React
@@ -47,12 +46,6 @@ I'm a Full Stack Developer with experience in web and mobile development. I'm pa
 - Designed and implemented MongoDB, Firebase and Postgres databases
 
 ## 🌱 Projects
-
-### Prensença Digital
-
-- **Description:** A system to provide control of the presence of teachers in courses in the public school network in Brazil.
-- **Stack:** Node.js, Postgres
-- **Link:** Private Project
 
 ### SmartAI
 
