@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Byndbox developing amazing and stunning marketing websites and softwares to help and improve other companies and education in Brazil, I have some interest in machine learning and create AI features
+I'm working on Byndbox developing amazing and stunning websites and softwares to help and improve other companies and education in Brazil, I have some interest in machine learning and create AI features
 
 
 ## 🌐 Socials:
